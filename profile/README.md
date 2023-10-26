@@ -1,12 +1,42 @@
-## Hi there 👋
+# ALLTRENDS
 
-<!--
+ALLdex is a Product of the AllTrend Team form the European Blockchain Hackathon.
 
-**Here are some ideas to get you started:**
+[Link to live demo](https://alldex.vercel.app/)
+where you can open a long and short perpetual future position.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+More details about functionality and Future Roadmap you can find in our WhitePaper.
+
+## Whitepaper
+
+[link to the withepaper v1](https://github.com/AllTrends/whitepaper)
+
+## Run the frontend app
+
+clone the repo [here](https://github.com/AllTrends/www)
+
+install dependecies
+
+```bash
+pnpm i
+```
+
+then run the app
+
+```bash
+pnpm dev
+```
+
+## The Team
+
+- [Amandine](https://github.com/AmandineBI)
+- [Ivan](github.com/GanapatiGold)
+- [Jose](github.com/jmsallent)
+- [Loris](https://github.com/Loa212)
+- [Sebastian](https://www.linkedin.com/in/sebastian-s-a29b93276/)
+- [Piotr](https://github.com/wieruszewski)
+- [Dariel](https://github.com/dar96)
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
